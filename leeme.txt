@@ -1,0 +1,6 @@
+Este archivo tiene información importante para el funcionamiento del proyecto
+
+usuario:
+password:
+
+etc.
